@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-post-your-form/static/css/main.b1950d23.chunk.css",
+    "main.js": "/react-post-your-form/static/js/main.34946099.chunk.js",
+    "main.js.map": "/react-post-your-form/static/js/main.34946099.chunk.js.map",
+    "runtime-main.js": "/react-post-your-form/static/js/runtime-main.4a2a711b.js",
+    "runtime-main.js.map": "/react-post-your-form/static/js/runtime-main.4a2a711b.js.map",
+    "static/js/2.2dc62986.chunk.js": "/react-post-your-form/static/js/2.2dc62986.chunk.js",
+    "static/js/2.2dc62986.chunk.js.map": "/react-post-your-form/static/js/2.2dc62986.chunk.js.map",
+    "index.html": "/react-post-your-form/index.html",
+    "precache-manifest.916d115db73f865e175afb8f9258311e.js": "/react-post-your-form/precache-manifest.916d115db73f865e175afb8f9258311e.js",
+    "service-worker.js": "/react-post-your-form/service-worker.js",
+    "static/css/main.b1950d23.chunk.css.map": "/react-post-your-form/static/css/main.b1950d23.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2a711b.js",
+    "static/js/2.2dc62986.chunk.js",
+    "static/css/main.b1950d23.chunk.css",
+    "static/js/main.34946099.chunk.js"
+  ]
+}
